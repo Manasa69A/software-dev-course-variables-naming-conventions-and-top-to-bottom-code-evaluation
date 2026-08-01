@@ -34,11 +34,8 @@ console.log(d);*/
 let customerName = "Alice";
 let numberOfItems = 5;
 let totalCost = 20;
-
 // Additional variables
 let storeName = "SuperMart";
 let currency = "$";
-
 let purchaseMessage =customerName + " bought " + numberOfItems + " items from " + storeName + " for " + currency + totalCost + ".";
-
 console.log(purchaseMessage);
